@@ -1,0 +1,7 @@
+/**
+ * kintoneのrabbitのカレンダープラグインの日付表示を小さくする(スマホ対応)
+ **/
+
+.fc .fc-col-header-cell-cushion {
+    font-size: xx-small;
+}
